@@ -1,0 +1,12 @@
+﻿  源.cpp
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(352,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(353,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(357,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(416,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(417,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(420,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(420,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(424,60): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(424,49): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\源.cpp(607,1): warning C4715: “AI::think”: 不是所有的控件路径都返回值
+  Gomoku_test.vcxproj -> C:\Users\zszyp\Desktop\2400012905石杨子然五子棋大作业\Gomoku_test\x64\Debug\Gomoku_test.exe
